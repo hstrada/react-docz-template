@@ -4,11 +4,9 @@ Project sample with using docz.
 
 ## docz
 
-### add dependency
-
+### add docz as dev dependency
 
 ```bash
-  # add docz as dev dependency
   ❯ yarn add docz --dev
 ```
 
