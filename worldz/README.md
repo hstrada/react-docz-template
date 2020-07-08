@@ -10,7 +10,7 @@ Project sample usage with docz.
   ❯ yarn add docz --dev
 ```
 
-### aditional config
+### additional config
 
 Using with typescript, you must create a file called `doczrc.js`
 
