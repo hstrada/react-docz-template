@@ -1,6 +1,6 @@
 # worldz
 
-Project sample with using docz.
+Project sample usage with docz.
 
 ## docz
 
