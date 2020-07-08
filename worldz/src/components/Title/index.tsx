@@ -3,15 +3,18 @@ import React from "react";
 import styled from "styled-components";
 
 export const Label = styled.h1<StyledProps>`
-  font-size: 1.5em;
-  text-align: center;
+  font-size: 24px;
   color: ${({ color }) => color};
 `;
 
 interface Props {
+   /**
+   * Set this to change the title text
+   */
   label: string;
   /**
-   * color props
+   * Set this to change title color
+   * @default red
    */
   color: "red" | "blue" | "green";
 }
@@ -20,7 +23,7 @@ interface StyledProps {
   color: "red" | "blue" | "green";
 }
 
-const Title = ({ label, color = "red" }: Props) => (
+const Title = ({ label, color = "green" }: Props) => (
   <Label color={color}>{label}</Label>
 );
 
