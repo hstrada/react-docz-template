@@ -6,7 +6,11 @@ Project sample with using docz.
 
 ### add dependency
 
-> yarn add docz --dev
+
+```bash
+  # add docz as dev dependency
+  ❯ yarn add docz --dev
+```
 
 ### aditional config
 
