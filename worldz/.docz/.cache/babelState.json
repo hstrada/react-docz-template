@@ -3,31 +3,31 @@
     "develop": {
       "plugins": [
         {
-          "name": "C:\\_git\\react-docz-template\\worldz\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
+          "name": "/Users/helena.strada/Documents/_git/react-docz-template/worldz/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
           "options": {}
         },
         {
-          "name": "C:\\_git\\react-docz-template\\worldz\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
+          "name": "/Users/helena.strada/Documents/_git/react-docz-template/worldz/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
           "options": {}
         },
         {
-          "name": "C:\\_git\\react-docz-template\\worldz\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
+          "name": "/Users/helena.strada/Documents/_git/react-docz-template/worldz/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
           "options": {}
         },
         {
-          "name": "C:\\_git\\react-docz-template\\worldz\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
+          "name": "/Users/helena.strada/Documents/_git/react-docz-template/worldz/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
           "options": {}
         },
         {
           "name": "babel-plugin-export-metadata",
           "options": {
-            "root": "C:\\_git\\react-docz-template\\worldz"
+            "root": "/Users/helena.strada/Documents/_git/react-docz-template/worldz"
           }
         }
       ],
       "presets": [
         {
-          "name": "C:\\_git\\react-docz-template\\worldz\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
+          "name": "/Users/helena.strada/Documents/_git/react-docz-template/worldz/node_modules/@babel/preset-typescript/lib/index.js",
           "options": {
             "plugins": [],
             "isTSX": true,
@@ -35,7 +35,7 @@
           }
         },
         {
-          "name": "C:\\_git\\react-docz-template\\worldz\\node_modules\\@emotion\\babel-preset-css-prop\\dist\\babel-preset-css-prop.cjs.js",
+          "name": "/Users/helena.strada/Documents/_git/react-docz-template/worldz/node_modules/@emotion/babel-preset-css-prop/dist/babel-preset-css-prop.cjs.js",
           "options": {
             "sourceMap": true,
             "autoLabel": true,
@@ -51,31 +51,31 @@
     "develop-html": {
       "plugins": [
         {
-          "name": "C:\\_git\\react-docz-template\\worldz\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
+          "name": "/Users/helena.strada/Documents/_git/react-docz-template/worldz/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
           "options": {}
         },
         {
-          "name": "C:\\_git\\react-docz-template\\worldz\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
+          "name": "/Users/helena.strada/Documents/_git/react-docz-template/worldz/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
           "options": {}
         },
         {
-          "name": "C:\\_git\\react-docz-template\\worldz\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
+          "name": "/Users/helena.strada/Documents/_git/react-docz-template/worldz/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
           "options": {}
         },
         {
-          "name": "C:\\_git\\react-docz-template\\worldz\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
+          "name": "/Users/helena.strada/Documents/_git/react-docz-template/worldz/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
           "options": {}
         },
         {
           "name": "babel-plugin-export-metadata",
           "options": {
-            "root": "C:\\_git\\react-docz-template\\worldz"
+            "root": "/Users/helena.strada/Documents/_git/react-docz-template/worldz"
           }
         }
       ],
       "presets": [
         {
-          "name": "C:\\_git\\react-docz-template\\worldz\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
+          "name": "/Users/helena.strada/Documents/_git/react-docz-template/worldz/node_modules/@babel/preset-typescript/lib/index.js",
           "options": {
             "plugins": [],
             "isTSX": true,
@@ -83,7 +83,7 @@
           }
         },
         {
-          "name": "C:\\_git\\react-docz-template\\worldz\\node_modules\\@emotion\\babel-preset-css-prop\\dist\\babel-preset-css-prop.cjs.js",
+          "name": "/Users/helena.strada/Documents/_git/react-docz-template/worldz/node_modules/@emotion/babel-preset-css-prop/dist/babel-preset-css-prop.cjs.js",
           "options": {
             "sourceMap": true,
             "autoLabel": true,
@@ -99,31 +99,31 @@
     "build-html": {
       "plugins": [
         {
-          "name": "C:\\_git\\react-docz-template\\worldz\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
+          "name": "/Users/helena.strada/Documents/_git/react-docz-template/worldz/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
           "options": {}
         },
         {
-          "name": "C:\\_git\\react-docz-template\\worldz\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
+          "name": "/Users/helena.strada/Documents/_git/react-docz-template/worldz/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
           "options": {}
         },
         {
-          "name": "C:\\_git\\react-docz-template\\worldz\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
+          "name": "/Users/helena.strada/Documents/_git/react-docz-template/worldz/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
           "options": {}
         },
         {
-          "name": "C:\\_git\\react-docz-template\\worldz\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
+          "name": "/Users/helena.strada/Documents/_git/react-docz-template/worldz/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
           "options": {}
         },
         {
           "name": "babel-plugin-export-metadata",
           "options": {
-            "root": "C:\\_git\\react-docz-template\\worldz"
+            "root": "/Users/helena.strada/Documents/_git/react-docz-template/worldz"
           }
         }
       ],
       "presets": [
         {
-          "name": "C:\\_git\\react-docz-template\\worldz\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
+          "name": "/Users/helena.strada/Documents/_git/react-docz-template/worldz/node_modules/@babel/preset-typescript/lib/index.js",
           "options": {
             "plugins": [],
             "isTSX": true,
@@ -131,7 +131,7 @@
           }
         },
         {
-          "name": "C:\\_git\\react-docz-template\\worldz\\node_modules\\@emotion\\babel-preset-css-prop\\dist\\babel-preset-css-prop.cjs.js",
+          "name": "/Users/helena.strada/Documents/_git/react-docz-template/worldz/node_modules/@emotion/babel-preset-css-prop/dist/babel-preset-css-prop.cjs.js",
           "options": {
             "sourceMap": true,
             "autoLabel": true,
@@ -147,31 +147,31 @@
     "build-javascript": {
       "plugins": [
         {
-          "name": "C:\\_git\\react-docz-template\\worldz\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
+          "name": "/Users/helena.strada/Documents/_git/react-docz-template/worldz/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
           "options": {}
         },
         {
-          "name": "C:\\_git\\react-docz-template\\worldz\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
+          "name": "/Users/helena.strada/Documents/_git/react-docz-template/worldz/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
           "options": {}
         },
         {
-          "name": "C:\\_git\\react-docz-template\\worldz\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
+          "name": "/Users/helena.strada/Documents/_git/react-docz-template/worldz/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
           "options": {}
         },
         {
-          "name": "C:\\_git\\react-docz-template\\worldz\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
+          "name": "/Users/helena.strada/Documents/_git/react-docz-template/worldz/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
           "options": {}
         },
         {
           "name": "babel-plugin-export-metadata",
           "options": {
-            "root": "C:\\_git\\react-docz-template\\worldz"
+            "root": "/Users/helena.strada/Documents/_git/react-docz-template/worldz"
           }
         }
       ],
       "presets": [
         {
-          "name": "C:\\_git\\react-docz-template\\worldz\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
+          "name": "/Users/helena.strada/Documents/_git/react-docz-template/worldz/node_modules/@babel/preset-typescript/lib/index.js",
           "options": {
             "plugins": [],
             "isTSX": true,
@@ -179,7 +179,7 @@
           }
         },
         {
-          "name": "C:\\_git\\react-docz-template\\worldz\\node_modules\\@emotion\\babel-preset-css-prop\\dist\\babel-preset-css-prop.cjs.js",
+          "name": "/Users/helena.strada/Documents/_git/react-docz-template/worldz/node_modules/@emotion/babel-preset-css-prop/dist/babel-preset-css-prop.cjs.js",
           "options": {
             "sourceMap": true,
             "autoLabel": true,

@@ -53,7 +53,8 @@ const config = {
         o: null,
         open: null,
         'open-browser': null,
-        root: 'C:\\_git\\react-docz-template\\worldz\\.docz',
+        root:
+          '/Users/helena.strada/Documents/_git/react-docz-template/worldz/.docz',
         base: '/',
         source: './',
         'gatsby-root': null,
@@ -72,28 +73,38 @@ const config = {
         p: 3000,
         separator: '-',
         paths: {
-          root: 'C:\\_git\\react-docz-template\\worldz',
+          root:
+            '/Users/helena.strada/Documents/_git/react-docz-template/worldz',
           templates:
-            'C:\\_git\\react-docz-template\\worldz\\node_modules\\docz-core\\dist\\templates',
-          docz: 'C:\\_git\\react-docz-template\\worldz\\.docz',
-          cache: 'C:\\_git\\react-docz-template\\worldz\\.docz\\.cache',
-          app: 'C:\\_git\\react-docz-template\\worldz\\.docz\\app',
-          appPackageJson: 'C:\\_git\\react-docz-template\\worldz\\package.json',
-          appTsConfig: 'C:\\_git\\react-docz-template\\worldz\\tsconfig.json',
+            '/Users/helena.strada/Documents/_git/react-docz-template/worldz/node_modules/docz-core/dist/templates',
+          docz:
+            '/Users/helena.strada/Documents/_git/react-docz-template/worldz/.docz',
+          cache:
+            '/Users/helena.strada/Documents/_git/react-docz-template/worldz/.docz/.cache',
+          app:
+            '/Users/helena.strada/Documents/_git/react-docz-template/worldz/.docz/app',
+          appPackageJson:
+            '/Users/helena.strada/Documents/_git/react-docz-template/worldz/package.json',
+          appTsConfig:
+            '/Users/helena.strada/Documents/_git/react-docz-template/worldz/tsconfig.json',
           gatsbyConfig:
-            'C:\\_git\\react-docz-template\\worldz\\gatsby-config.js',
+            '/Users/helena.strada/Documents/_git/react-docz-template/worldz/gatsby-config.js',
           gatsbyBrowser:
-            'C:\\_git\\react-docz-template\\worldz\\gatsby-browser.js',
-          gatsbyNode: 'C:\\_git\\react-docz-template\\worldz\\gatsby-node.js',
-          gatsbySSR: 'C:\\_git\\react-docz-template\\worldz\\gatsby-ssr.js',
+            '/Users/helena.strada/Documents/_git/react-docz-template/worldz/gatsby-browser.js',
+          gatsbyNode:
+            '/Users/helena.strada/Documents/_git/react-docz-template/worldz/gatsby-node.js',
+          gatsbySSR:
+            '/Users/helena.strada/Documents/_git/react-docz-template/worldz/gatsby-ssr.js',
           importsJs:
-            'C:\\_git\\react-docz-template\\worldz\\.docz\\app\\imports.js',
-          rootJs: 'C:\\_git\\react-docz-template\\worldz\\.docz\\app\\root.jsx',
+            '/Users/helena.strada/Documents/_git/react-docz-template/worldz/.docz/app/imports.js',
+          rootJs:
+            '/Users/helena.strada/Documents/_git/react-docz-template/worldz/.docz/app/root.jsx',
           indexJs:
-            'C:\\_git\\react-docz-template\\worldz\\.docz\\app\\index.jsx',
+            '/Users/helena.strada/Documents/_git/react-docz-template/worldz/.docz/app/index.jsx',
           indexHtml:
-            'C:\\_git\\react-docz-template\\worldz\\.docz\\app\\index.html',
-          db: 'C:\\_git\\react-docz-template\\worldz\\.docz\\app\\db.json',
+            '/Users/helena.strada/Documents/_git/react-docz-template/worldz/.docz/app/index.html',
+          db:
+            '/Users/helena.strada/Documents/_git/react-docz-template/worldz/.docz/app/db.json',
         },
       },
     },

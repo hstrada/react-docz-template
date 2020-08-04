@@ -16,7 +16,7 @@
       "value": {
         "id": "04c6e90faac2675aa89e2176d2eec7d8",
         "filepath": "README.md",
-        "fullpath": "C:\\_git\\react-docz-template\\worldz\\README.md",
+        "fullpath": "/Users/helena.strada/Documents/_git/react-docz-template/worldz/README.md",
         "link": "",
         "hidden": false,
         "slug": "readme",
@@ -25,19 +25,44 @@
         "menu": "",
         "headings": [
           {
-            "slug": "worldz",
-            "depth": 1,
-            "value": "worldz"
-          },
-          {
-            "slug": "docz",
+            "slug": "rocket-project-summary",
             "depth": 2,
-            "value": "docz"
+            "value": ":rocket: Project Summary"
           },
           {
-            "slug": "typescript-config",
+            "slug": "️-technologies-used",
+            "depth": 2,
+            "value": "👨‍💻️ Technologies Used"
+          },
+          {
+            "slug": "frontend",
             "depth": 3,
-            "value": "typescript config"
+            "value": "FrontEnd"
+          },
+          {
+            "slug": "dependencies",
+            "depth": 3,
+            "value": "Dependencies"
+          },
+          {
+            "slug": "ide",
+            "depth": 3,
+            "value": "IDE"
+          },
+          {
+            "slug": "️-how-to-install-the-project",
+            "depth": 2,
+            "value": "📦️ How to install the project"
+          },
+          {
+            "slug": "frontend-1",
+            "depth": 3,
+            "value": "FrontEnd"
+          },
+          {
+            "slug": "️-how-can-you-contribute",
+            "depth": 2,
+            "value": "🤔️ How can you contribute?"
           }
         ]
       }
@@ -49,7 +74,7 @@
         "route": "/",
         "id": "93b9d61e55743f142980c1aa9b37d4d4",
         "filepath": "src/docz/index.mdx",
-        "fullpath": "C:\\_git\\react-docz-template\\worldz\\src\\docz\\index.mdx",
+        "fullpath": "/Users/helena.strada/Documents/_git/react-docz-template/worldz/src/docz/index.mdx",
         "link": "",
         "hidden": false,
         "slug": "src-docz-index",
@@ -71,7 +96,7 @@
         "route": "/components",
         "id": "35d8aa554f39c8f9fe8d90e8da745909",
         "filepath": "src/components/Title/index.mdx",
-        "fullpath": "C:\\_git\\react-docz-template\\worldz\\src\\components\\Title\\index.mdx",
+        "fullpath": "/Users/helena.strada/Documents/_git/react-docz-template/worldz/src/components/Title/index.mdx",
         "link": "",
         "hidden": false,
         "slug": "src-components-title-index",
@@ -162,7 +187,7 @@
           "props": {
             "label": {
               "defaultValue": null,
-              "description": "",
+              "description": "Set this to change the title text",
               "name": "label",
               "parent": {
                 "fileName": "src/components/Title/index.tsx",
@@ -175,9 +200,9 @@
             },
             "color": {
               "defaultValue": {
-                "value": "red"
+                "value": "green"
               },
-              "description": "color props",
+              "description": "Set this to change title color",
               "name": "color",
               "parent": {
                 "fileName": "src/components/Title/index.tsx",
